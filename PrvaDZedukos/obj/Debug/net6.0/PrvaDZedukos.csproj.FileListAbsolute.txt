@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\bin\Debug\net6.0\PrvaDZedukos.exe
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\bin\Debug\net6.0\PrvaDZedukos.deps.json
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\bin\Debug\net6.0\PrvaDZedukos.runtimeconfig.json
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\bin\Debug\net6.0\PrvaDZedukos.dll
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\bin\Debug\net6.0\PrvaDZedukos.pdb
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\PrvaDZedukos.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\PrvaDZedukos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\PrvaDZedukos.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\PrvaDZedukos.AssemblyInfo.cs
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\PrvaDZedukos.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\PrvaDZedukos.dll
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\refint\PrvaDZedukos.dll
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\PrvaDZedukos.pdb
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\PrvaDZedukos.genruntimeconfig.cache
+C:\Users\lukas\Desktop\RPPOON\PrvaDZedukos\PrvaDZedukos\obj\Debug\net6.0\ref\PrvaDZedukos.dll
