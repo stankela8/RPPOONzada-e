@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\bin\Debug\net6.0\ObrasciStvaranja 4. DZ.exe
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\bin\Debug\net6.0\ObrasciStvaranja 4. DZ.deps.json
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\bin\Debug\net6.0\ObrasciStvaranja 4. DZ.runtimeconfig.json
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\bin\Debug\net6.0\ObrasciStvaranja 4. DZ.dll
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\bin\Debug\net6.0\ObrasciStvaranja 4. DZ.pdb
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\ObrasciStvaranja 4. DZ.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\ObrasciStvaranja 4. DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\ObrasciStvaranja 4. DZ.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\ObrasciStvaranja 4. DZ.AssemblyInfo.cs
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\ObrasciStvaranja 4. DZ.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\ObrasciStvaranja 4. DZ.dll
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\refint\ObrasciStvaranja 4. DZ.dll
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\ObrasciStvaranja 4. DZ.pdb
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\ObrasciStvaranja 4. DZ.genruntimeconfig.cache
+C:\Users\lukas\Desktop\RPPOON\ObrasciStvaranja\ObrasciStvaranja 4. DZ\obj\Debug\net6.0\ref\ObrasciStvaranja 4. DZ.dll
