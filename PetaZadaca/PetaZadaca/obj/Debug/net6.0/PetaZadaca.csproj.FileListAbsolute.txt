@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\bin\Debug\net6.0\PetaZadaca.exe
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\bin\Debug\net6.0\PetaZadaca.deps.json
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\bin\Debug\net6.0\PetaZadaca.runtimeconfig.json
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\bin\Debug\net6.0\PetaZadaca.dll
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\bin\Debug\net6.0\PetaZadaca.pdb
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\PetaZadaca.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\PetaZadaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\PetaZadaca.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\PetaZadaca.AssemblyInfo.cs
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\PetaZadaca.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\PetaZadaca.dll
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\refint\PetaZadaca.dll
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\PetaZadaca.pdb
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\PetaZadaca.genruntimeconfig.cache
+C:\Users\lukas\Desktop\RPPOON\PetaZadaca\PetaZadaca\obj\Debug\net6.0\ref\PetaZadaca.dll
