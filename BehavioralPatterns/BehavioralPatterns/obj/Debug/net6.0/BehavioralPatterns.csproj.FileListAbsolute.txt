@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\bin\Debug\net6.0\BehavioralPatterns.exe
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\bin\Debug\net6.0\BehavioralPatterns.deps.json
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\bin\Debug\net6.0\BehavioralPatterns.runtimeconfig.json
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\bin\Debug\net6.0\BehavioralPatterns.dll
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\bin\Debug\net6.0\BehavioralPatterns.pdb
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\BehavioralPatterns.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\BehavioralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\BehavioralPatterns.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\BehavioralPatterns.AssemblyInfo.cs
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\BehavioralPatterns.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\BehavioralPatterns.dll
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\refint\BehavioralPatterns.dll
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\BehavioralPatterns.pdb
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\BehavioralPatterns.genruntimeconfig.cache
+C:\Users\lukas\Desktop\RPPOON\BehavioralPatterns\BehavioralPatterns\obj\Debug\net6.0\ref\BehavioralPatterns.dll
